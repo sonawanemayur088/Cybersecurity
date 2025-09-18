@@ -45,7 +45,7 @@ Contains simulated cybersecurity data including:
 ---
 
 ## 📎 Demo   
-Dashboard: ![Dashboard Preview](https://github.com/sonawanemayur088/Cybersecurity/blob/main/Cybersecurity%20Traffic%20%26%20Attack%20Overview.pdf)  
+Dashboard: ![Dashboard Preview](https://github.com/sonawanemayur088/Cybersecurity/blob/main/Cybersecurity%20Traffic%20%26%20Attack%20Overview.jpg)  
 
 ---
 
